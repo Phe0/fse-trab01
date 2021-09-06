@@ -8,7 +8,7 @@ Esse projeto diz respeito ao trabalho 1 da disciplina de Fundamentos de Sistemas
 
 |Nome|Matrícula|git|
 |----|---------|---|
-|Pedro Henrique Andrade Féo|17/002461|phe0|
+|Pedro Henrique Andrade Féo|17/0020461|phe0|
 
 ## Como rodar o código
 
